@@ -4,7 +4,7 @@ const names = ['Edoardo', 'Simone', 'Francesco'];
 let result = "";
 names.forEach((curName, i) => {
     // console.log(curName);
-    result += `${curName} `
+    result += `${curName} `;
 })
 console.log(result);
 
